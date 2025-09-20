@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: elitechwiz-v4
+    name: blackhackers-v1
     env: node
     buildCommand: npm install
     startCommand: npm start
